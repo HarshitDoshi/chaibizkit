@@ -1,5 +1,3 @@
-# ChaiBizkit
-
 ## What is ChaiBizkit?
 
 ChaiBizkit is an initiative for all the small and medium businesses running in a city.
